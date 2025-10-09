@@ -41,8 +41,6 @@ class TestUrbanRoutes:
         pass
 
     def test_order_2_ice_creams(self):
-        # Adicionar em S8
-        print("Função criada para definir order 2 ice creams")
         numbers_of_ice_creams = 2
         for count in range(numbers_of_ice_creams):
             # Adicionar em S8
